@@ -1,0 +1,11 @@
+High Score:
+1	Max	10000
+2	Roger	10000
+3	Sarah	10000
+4	Karnel	10000
+5	Jeff	10000
+6	June	10000
+7	Ruby	10000
+8	Toby	10000
+9	Michael	10000
+10	Mike	10000
